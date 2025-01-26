@@ -1,0 +1,44 @@
+{
+    "units": [
+        {
+            "household_no": "123",
+            "name": "123",
+            "sin": "123",
+            "bday": "",
+            "phoneno": "",
+            "email": "",
+            "address": "",
+            "plateno": "",
+            "taxno": "",
+            "groupno": "",
+            "accountno": "",
+            "accountnote": "",
+            "receiverno": "",
+            "receivernote": "",
+            "workaddress": "",
+            "workphone": "",
+            "workemail": "",
+            "occupation": ""
+        },
+        {
+            "household_no": "432534",
+            "name": "5345345",
+            "sin": "345",
+            "bday": "",
+            "phoneno": "",
+            "email": "",
+            "address": "",
+            "plateno": "",
+            "taxno": "",
+            "groupno": "",
+            "accountno": "",
+            "accountnote": "",
+            "receiverno": "",
+            "receivernote": "",
+            "workaddress": "",
+            "workphone": "",
+            "workemail": "",
+            "occupation": ""
+        }
+    ]
+}

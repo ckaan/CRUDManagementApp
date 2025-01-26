@@ -1,0 +1,19 @@
+{
+    "buildings": [
+        {
+            "building_id": "2",
+            "name": "2",
+            "units": []
+        },
+        {
+            "building_id": "3",
+            "name": "3",
+            "units": []
+        },
+        {
+            "building_id": "1",
+            "name": "Deniz",
+            "units": []
+        }
+    ]
+}
