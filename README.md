@@ -1,10 +1,14 @@
 # CRUDManagementApp
+
+##### THIS PROJECT IS STILL ON GOING ##### 
 Desktop Building Management App with PyQt6
 
 👥 Developers:
 @ckaan - Caner Kaan Balseven
 
-##### THIS PROJECT IS STILL ON GOING ##### 
+Disclaimers:
+#### This project was initially based on concepts from SENG265 at University of Victoria but has been heavily modified and expanded to serve as a robust building management system in real world. ####
+
 #### The project is published for recruitment purposes, this project is not a open source!, all rights reserved by Lutin Software Solutions 2025 ####
 
 📌Summary
